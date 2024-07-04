@@ -3,7 +3,7 @@ package com.javaex.ex09;
 public class StringUtilApp {
 
     public static void main(String[] args) {
-
+0
         String[] strArray = {"SuperMan", "BatMan", "SpiderMan"};
         String resultStr = StringUtil.concatString(strArray);
         
